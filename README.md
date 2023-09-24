@@ -13,16 +13,16 @@ The datasets utilized for this analysis is part real ("The Instacart Online Groc
 
 A total of four datasets were used:
 
-   • orders (real): 
+   - orders (real): 
        data associated with each order
        (order ID, day and time of order, days since prior order)
-   • orders_products (real): 
+   - orders_products (real): 
        data associated with each order, including products ordered in each
        (order ID, product ID)
-   • products (real): 
+   - products (real): 
        data associated with all products available through Instacart
        (product ID, name, department, price)
-   • customers (fabricated):
+   - customers (fabricated):
        data associated with customers
        (name, gender, state, age, family status, dependents, income) 
 
