@@ -42,14 +42,23 @@ Data wrangling:
    - dataframes were exported as pickles 
 
 Data transformation: 
-   - dataframes were merged together one by one 
-   - for-loop if-statements were used to exclude certain customers 
-   - for-loop if-statements were used to create conditional columns from which customer profiles were built 
-   - random sample of dataframe was taken to reduce dataframe size to 30%
+   - dataframes merged together one by one 
+   - for-loop if-statements used to exclude certain customers 
+   - for-loop if-statements used to create conditional columns from which customer profiles were built 
+   - random sample of dataframe taken to reduce dataframe size to 30%
 
 <br>
 
 ### E X P L O R A T I O N
-   - descriptive analysis of each customer profile was performed 
+   - descriptive analysis of each customer profile 
    - analysis performed to answer questions provided by Instacart 
-   - visuals created using matplotlib, seaborn to support insight  
+   - visualizations created using matplotlib, seaborn to support insights
+
+<br>
+
+### L I B R A R I E S
+   - data processing: Pandas, NumPy, os
+   - statistical analysis: SciPy
+   - data visualization: Matplotlib, Seaborn
+   - data presentation: Jupyter Notebooks
+
