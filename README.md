@@ -26,6 +26,7 @@ A total of four datasets were used:
        - data associated with customers
        - name, gender, state, age, family status, dependents, income
 
+<br>
 ### P R E P A R A T I O N
 Data cleaning:
    - missing and duplicated values and outliers addressed
