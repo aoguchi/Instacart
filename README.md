@@ -1,5 +1,7 @@
 # Instacart Grocery Basket Analysis: Python | Jupyter | Pandas
 
+<br>
+
 ### B A C K G R O U N D
 Instacart wants a deeper understanding of their customers and their purchasing behaviors. They are interested in grouping their customers into profiles, creating targeted marketing campaigns and measuring how these strategies affect proceeding sales. 
 
