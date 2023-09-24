@@ -25,9 +25,9 @@ A total of four datasets were used:
    • customers (fabricated):
        data associated with customers
        (name, gender, state, age, family status, dependents, income) 
+<span style="color:white">.</span>
 
-
-### D A T A   P R E P A R A T I O N
+### P R E P A R A T I O N
 Data cleaning:
    • missing and duplicated values and outliers addressed
    • consistency check performed 
@@ -45,7 +45,7 @@ Data transformation:
    • random sample of dataframe was taken to reduce dataframe size to 30%
 
 
-### D A T A   E X P L O R A T I O N
+### E X P L O R A T I O N
    • descriptive analysis of each customer profile was performed 
    • analysis performed to answer questions provided by Instacart 
    • visuals created using matplotlib, seaborn to support insight  
