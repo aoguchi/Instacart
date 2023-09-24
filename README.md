@@ -3,10 +3,12 @@
 ### B A C K G R O U N D
 Instacart wants a deeper understanding of their customers and their purchasing behaviors. They are interested in grouping their customers into profiles, creating targeted marketing campaigns and measuring how these strategies affect proceeding sales. 
 
+<br>
 
 ### N E E D
 Perform an initial exploratory analysis about the customers and their purchasing behaviors, create customer profiles, and suggest marketing strategies for each.
 
+<br>
 
 ### D A T A S E T S
 The datasets utilized for this analysis is part real ("The Instacart Online Grocery Shopping Dataset 2017" accessed via Kaggle) and part fabricated by Career Foundry for educational purposes. 
@@ -45,6 +47,7 @@ Data transformation:
    - for-loop if-statements were used to create conditional columns from which customer profiles were built 
    - random sample of dataframe was taken to reduce dataframe size to 30%
 
+<br>
 
 ### E X P L O R A T I O N
    - descriptive analysis of each customer profile was performed 
