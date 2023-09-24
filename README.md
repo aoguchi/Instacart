@@ -25,7 +25,9 @@ A total of four datasets were used:
    • customers (fabricated):
        data associated with customers
        (name, gender, state, age, family status, dependents, income) 
-<span style="color:white">.</span>
+<span style="color:white">
+.
+</span>
 
 ### P R E P A R A T I O N
 Data cleaning:
