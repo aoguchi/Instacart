@@ -1,4 +1,5 @@
-# Instacart Grocery Basket Analysis: Python | Jupyter | Pandas
+# Instacart Grocery Basket Analysis: 
+Python | Jupyter | Pandas
 
 <br>
 
