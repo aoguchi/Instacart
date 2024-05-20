@@ -63,21 +63,22 @@ Data transformation:
    - data processing: Pandas, NumPy, os
    - statistical analysis: SciPy
    - data visualization: Matplotlib, Seaborn
-   - data presentation: Jupyter Notebooks, Excel
+   - data presentation: Jupyter Notebook, Excel
 
 <br>
 
 ### S K I L L S
-   - importing/exporting datasets
-   - removing missing and duplicated values
-   - renaming column names
-   - dropping columns and rows 
-   - changing data types
-   - subsetting dataframes
-   - descriptive analysis
-   - merging dataframes
-   - if-statements: loc() function, for-loop, user-defined
-   - randomized sampling 
-   - data visualizations: bar, stacked bar, line, histogram, scatterplot
-   - code comments
-   - notebook grammar and best practices
+   •  importing datasets
+   •  exporting dataframes as .csv and .pkl
+   •  comments, markdowns, notebook grammar, best practices
+   •  removing missing and duplicate values
+   •  renaming column names
+   •  dropping columns and rows
+   •  changing data types
+   •  subsetting dataframes
+   •  aggregations (mean, median, min, max)
+   •  merging dataframes
+   •  if-statements: loc() function, for-loop, user-defined
+   •  randomized sampling 
+   •  data visualizations (Matplotlib.pyplot and Seaborn): 
+      bar, stacked bar, line, histogram, scatterplot
