@@ -68,17 +68,17 @@ Data transformation:
 <br>
 
 ### S K I L L S
-   •  importing datasets
-   •  exporting dataframes as .csv and .pkl
-   •  comments, markdowns, notebook grammar, best practices
-   •  removing missing and duplicate values
-   •  renaming column names
-   •  dropping columns and rows
-   •  changing data types
-   •  subsetting dataframes
-   •  aggregations (mean, median, min, max)
-   •  merging dataframes
-   •  if-statements: loc() function, for-loop, user-defined
-   •  randomized sampling 
-   •  data visualizations (Matplotlib.pyplot and Seaborn): 
-      bar, stacked bar, line, histogram, scatterplot
+   - importing datasets
+   - exporting dataframes as .csv and .pkl
+   - comments, markdowns, notebook grammar, best practices
+   - removing missing and duplicate values
+   - renaming column names
+   - dropping columns and rows
+   - changing data types
+   - subsetting dataframes
+   - aggregations (mean, median, min, max)
+   - merging dataframes
+   - if-statements: loc() function, for-loop, user-defined
+   - randomized sampling 
+   - data visualizations (Matplotlib.pyplot and Seaborn): 
+     bar, stacked bar, line, histogram, scatterplot
